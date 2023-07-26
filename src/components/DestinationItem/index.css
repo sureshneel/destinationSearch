@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image{
+  height: 50px;
+  border-radius: 10px;
+}
+.name {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 13px;
+  text-align: center;
+}

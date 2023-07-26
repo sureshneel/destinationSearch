@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.search-container {
+  background-color: aliceblue;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.main-heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+.destination-items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+}
