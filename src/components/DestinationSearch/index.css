@@ -2,7 +2,7 @@
 
 .search-container {
   background-color: aliceblue;
-  height: 100vh;
+
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -22,4 +22,7 @@
   flex-wrap: wrap;
   justify-content: center;
   list-style-type: none;
+}
+.input-field {
+  width: 30%;
 }
